@@ -2,7 +2,7 @@
     "gitflow4code.features": [],
     "gitflow4code.releases": [
         {
-            "name": "release/release_2",
+            "name": "release/release_3",
             "base": "develop"
         }
     ]
