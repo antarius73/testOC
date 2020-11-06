@@ -2,4 +2,12 @@ modification du texte
 modification 2
 note de version
 note de version
+<<<<<<< HEAD
 correct error
+=======
+modif greg
+
+modif 2
+modif 
+modif en plus
+>>>>>>> derniere_version

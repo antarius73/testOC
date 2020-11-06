@@ -1,5 +1,6 @@
 {
     "gitflow4code.features": [],
+<<<<<<< HEAD
     "gitflow4code.releases": [
         {
             "name": "release/nouvelle_relaes5",
@@ -12,4 +13,7 @@
             "base": "master"
         }
     ]
+=======
+    "gitflow4code.releases": []
+>>>>>>> derniere_version
 }
