@@ -5,5 +5,11 @@
             "name": "release/nouvelle_relaes5",
             "base": "develop"
         }
+    ],
+    "gitflow4code.hotfixes": [
+        {
+            "name": "hotfix/correct_error",
+            "base": "master"
+        }
     ]
 }
