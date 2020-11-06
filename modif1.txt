@@ -6,3 +6,4 @@ encore une modif
 fd
 g
 fd
+ajout des notes de version
