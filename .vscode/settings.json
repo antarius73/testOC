@@ -1,4 +1,9 @@
 {
-    "gitflow4code.features": [],
+    "gitflow4code.features": [
+        {
+            "name": "feature/nouvelle_fx_bl",
+            "base": "develop"
+        }
+    ],
     "gitflow4code.releases": []
 }
