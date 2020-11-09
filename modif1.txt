@@ -7,3 +7,5 @@ fd
 g
 fd
 ajout des notes de version
+
+fx pour bl
