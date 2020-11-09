@@ -1,19 +1,13 @@
 {
     "gitflow4code.features": [],
-<<<<<<< HEAD
+
+
+
     "gitflow4code.releases": [
         {
-            "name": "release/nouvelle_relaes5",
+            "name": "release/nouvelleversion",
             "base": "develop"
         }
-    ],
-    "gitflow4code.hotfixes": [
-        {
-            "name": "hotfix/correct_error",
-            "base": "master"
-        }
     ]
-=======
-    "gitflow4code.releases": []
->>>>>>> derniere_version
+
 }
